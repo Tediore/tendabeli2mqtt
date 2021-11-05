@@ -6,6 +6,9 @@ Special thanks to nohous for reverse engineering these devices' local protocol (
 
 **Initial release: there is still some additional work to be done, but this is in a usable state**
 
+Confirmed working with the following devices:
+SP3
+
 # How to run
 
 **Docker via `docker-compose`**
