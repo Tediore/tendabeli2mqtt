@@ -1,6 +1,6 @@
 # Tenda Beli to MQTT Gateway
 
-tendabeli2mqtt enables local control of your Tenda Beli smart plugs/switches via MQTT. It supports Home Assistant MQTT discovery for easy integration. Supports multiple Tenda Beli devices. Not sure if anyone would actually be interested in this, but I do this stuff for fun anyway.
+tendabeli2mqtt enables local control of your Tenda Beli smart plugs/switches via MQTT. It supports Home Assistant MQTT discovery for easy integration. Supports multiple Tenda Beli devices. Not sure if anyone would actually be interested in this (personally, I prefer devices that can be flashed with Tasmota), but I do this stuff for fun anyway.
 
 Special thanks to nohous for reverse engineering these devices' local protocol (https://github.com/nohous/tenda-beli).
 
