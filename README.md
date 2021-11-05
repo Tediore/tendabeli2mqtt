@@ -78,6 +78,8 @@ tediore/tendabeli2mqtt:latest
 # Home Assistant
 tendabeli2mqtt supports Home Assistant MQTT discovery which creates a Device for the Tenda Beli plug/switch and entities for the switch and RSSI.
 
+![Home Assistant Device screenshot](tenda-screenshot.png)
+
 <br>
 
 # TODO
