@@ -84,4 +84,5 @@ tendabeli2mqtt supports Home Assistant MQTT discovery which creates a Device for
 
 # TODO
 1. Document MQTT topic structure and payloads
-2. ?
+2. Add more logging
+3. ???

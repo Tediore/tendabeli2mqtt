@@ -121,8 +121,7 @@ class Devices:
                             'manufacturer': 'Tenda', 
                             'model': f'{model}', 
                             'sw_version': f'{fw_ver}'}, 
-                            'platform': 'mqtt', 
-                            'icon': 'mdi:switch'
+                            'platform': 'mqtt'
                             }), 1, True)
 
                     # RSSI sensor payload
