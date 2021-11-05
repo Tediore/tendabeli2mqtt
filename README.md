@@ -73,8 +73,10 @@ tediore/tendabeli2mqtt:latest
 <br>
 
 # Home Assistant
-audioflow2mqtt supports Home Assistant MQTT discovery which creates a Device for the Audioflow switch and entities for each zone.
-
-![Home Assistant Device screenshot](ha_screenshot.png)
+tendabeli2mqtt supports Home Assistant MQTT discovery which creates a Device for the Tenda Beli plug/switch and entities for the switch and RSSI.
 
 <br>
+
+# TODO
+1. Document MQTT topic structure and payloads
+2. ?
